@@ -194,7 +194,8 @@ set(gca,'fontsize',14);
 
 
 
-
+%% Reference: 
+% Shouval, H. Z., Bear, M. F., & Cooper, L. N. (2002). A unified model of NMDA receptor-dependent bidirectional synaptic plasticity. Proceedings of the National Academy of Sciences, 99(16), 10831-10836.
 
 
         
